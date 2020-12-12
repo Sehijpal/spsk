@@ -1,6 +1,6 @@
-Name : Rasanpreet Singh
-City: Montreal
-Travel Experience: Ottowa to Montreal
+Name : Sehijpal Singh
+City: Ludhiana
+Travel Experience: Ludhiana to Jallandhar
 
 I love driving 
 
